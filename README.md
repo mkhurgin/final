@@ -18,4 +18,4 @@ For educational purposes only.
 
 Live Database lives here:
 
-https://console.firebase.google.com/project/buyflix-38f8f/database/data
+https://buyflix-38f8f.firebaseapp.com/
